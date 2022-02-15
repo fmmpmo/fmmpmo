@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fmmpmo
 - 👀 I’m interested in programing,entertainment circles,Hip-Hop,music,etc.
 - 🌱 I’m currently learning algorithm,mathematical modeling,Reptile and development.
-- 💞️ I’m looking to collaborate on Internet aspect.
 - 📫 You can contact me through QQ(676857204).
 
 <!---
